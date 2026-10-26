@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Madurez TRL",
+  "description": "Una herramienta interactiva para evaluar el nivel de madurez tecnológica (TRL) de proyectos de investigación y desarrollo, siguiendo estándares internacionales.",
+  "requestFramePermissions": []
+}
